@@ -8,7 +8,6 @@ gem 'carrierwave'
 gem 'mini_magick'
 gem 'kaminari'
 gem 'devise'
-gem 'activeadmin'
 
 gem 'simple_form'
 
